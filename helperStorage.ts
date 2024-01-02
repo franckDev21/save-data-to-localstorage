@@ -9,7 +9,7 @@ function saveData(key, data) {
 }
 
 /**
- * Fonction pour récupérer des données depuis le localStorage.
+ * Fonction pour récupérer des données depuis le localStorage. 
  *
  * @param {string} key - La clé sous laquelle les données sont enregistrées.
  * @returns {Object|null} - Les données récupérées ou null si la clé n'existe pas.
